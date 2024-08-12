@@ -51,6 +51,9 @@
     align-items: center;
     justify-content: center;
 }
+.hero-right img{
+    width: 80%;
+}
 
 
 
